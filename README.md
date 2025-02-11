@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Adarsh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
-- 🔭 I’m currently working on Mini Next Js Apps
+- 🔭 I’m currently working on Personal Shop Website
 - 👁️ Visit my Portfolio website to know more: [Dino@rmy](https://adarsh-dino.netlify.app/)
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [Replit](https://replit.com/@ADARSHKUMAR-PP)
 
-- 💬 Ask me about **Django, React JS**
+- 💬 Ask me about **React JS, Django, Spring Boot**
 
 - 📫 How to reach me **adarshchoudhary890@gmail.com**
 
